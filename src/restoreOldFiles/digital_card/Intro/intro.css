@@ -1,0 +1,48 @@
+.card-content{
+    color:white;
+}
+
+.img_file img{
+    height:300px;
+    width:90%;
+    margin:0 20px;
+    border-radius:16px;
+    -webkit-border-radius:16px;
+    -moz-border-radius:16px;
+    -ms-border-radius:16px;
+    -o-border-radius:16px;
+}
+
+.userInfo{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    line-height:40px;
+}
+
+h4{
+    color:yellow;
+    font-weight:normal;
+}
+
+.social_button{
+    display:flex;
+    justify-content:center;
+    gap:4rem;
+    margin:20px 0;
+}
+
+.btnLinks{
+    /*background-color:rgba(251, 251, 251, 0.144);
+    */color:white;
+    height:40px;
+    width:150px;
+    font-size:18px;
+    border:none;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}

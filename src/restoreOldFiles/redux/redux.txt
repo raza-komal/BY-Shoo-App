@@ -1,0 +1,64 @@
+When we need to pass a state from one component to another,and to avoid 
+prop drilling we use redux-core and make a store to have that state which is
+accessible to all components.
+
+
+Redux have three stages
+
+actions
+reducers
+store
+
+
+first of all we use provider to wrap our application and pass the store to it.
+so that each component can access it store
+
+
+MiddleWare will intercept an action before it reaches 
+to reducers
+it is a function thar return 
+
+
+it sits b/w the action dispatching and reducers
+reducers can change/update stte and but all logic can handle by rmiddleware
+
+ 
+
+
+
+
+CONTEXT API
+
+first we create a context using createContext();
+
+
+e.g: UserContext = createContext();
+
+then export default UserContext;
+    
+    then we import it in our app.js
+
+
+then call a UserProvider function having parameter of({childeren}) then return 
+<UserContext.Provider value={{userName : 'Komal'}}></UserContext.Provider>
+
+
+
+this UserContext.provider will be accessible to all the components
+
+children is a prop that have access to all values of the state when wrap in 
+UserContext.provider
+
+
+
+Now will take this UserProvider and put it in App.js component
+Now wrap App component with this UserProvider to give access all the
+component in app.js to access the state of the User
+
+
+
+Now in Nav component we import UserProvider
+and also useContext from react 
+
+const { userName, dispatch } = useContext(UserContext);
+

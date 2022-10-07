@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "image": "./img/airmax.webp",
+    "name": "Air max",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 720,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+
+  {
+    "id": 2,
+    "image": "./img/blazer.jpeg",
+    "name": "Blazer",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 287,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+  {
+    "id": 3,
+    "image": "./img/air2.jpg",
+    "name": "Air Force",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 290,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+  {
+    "id": 4,
+    "image": "./img/jordan.jpg",
+    "name": "Jordan",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 190,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+  {
+    "id": 5,
+    "image": "./img/nike1.jpg",
+    "name": "Gucci",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 720,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+  {
+    "id": 6,
+    "image": "./img/phantom.webp",
+    "name": "Air max",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 720,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+
+  {
+    "id": 7,
+    "image": "./img/air4.jpg",
+    "name": "Blazer",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 287,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+  {
+    "id": 8,
+    "image": "./img/felpie.jpg",
+    "name": "Air Force",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 290,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+  {
+    "id": 9,
+    "image": "./img/nike-red.jpg",
+    "name": "Jordan",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 190,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+  {
+    "id": 10,
+    "image": "./img/nike5.jpg",
+    "name": "Gucci",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 720,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+  {
+    "id": 11,
+    "image": "./img/nike3.webp",
+    "name": "Air max",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 720,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+
+  {
+    "id": 12,
+    "image": "./img/men5.webp",
+    "name": "Blazer",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 999,
+    "stock": 50,
+    "quantity":1,
+    "type":"men"
+  },
+  {
+    "id": 13,
+    "image": "./img/hippie.avif",
+    "name": "Air Force",
+    "description": "Men's Ace GG Supreme sneaker with bees",
+    "price": 290,
+    "stock": 100,
+    "quantity":1,
+    "type":"men"
+  },
+  {
+    "id": 14,
+    "image": "./img/women1.webp",
+    "name": "Jordan",
+    "description": "Women's Ace GG Supreme sneaker with bees",
+    "price": 190,
+    "stock": 100,
+    "quantity":1,
+    "type":"women"
+  },
+  {
+    "id": 15,
+    "image": "./img/women2.webp",
+    "name": "Gucci",
+    "description": "Women's Ace GG Supreme sneaker with bees",
+    "price": 720,
+    "stock": 100,
+    "quantity":1,
+    "type":"women"
+  },
+  {
+    "id": 16,
+    "image": "./img/women3.webp",
+    "name": "Air max",
+    "description": "Women's Ace GG Supreme sneaker with bees",
+    "price": 720,
+    "stock": 100,
+    "quantity":1,
+    "type":"women"
+  },
+
+  {
+    "id": 17,
+    "image": "./img/women4.webp",
+    "name": "Blazer",
+    "description": "Women's Ace GG Supreme sneaker with bees",
+    "price": 287,
+    "stock": 100,
+    "quantity":1,
+    "type":"women"
+  },
+  {
+    "id":18,
+    "image": "./img/kid1.webp",
+    "name": "Air Force",
+    "description": "Kid's Ace GG Supreme sneaker with bees",
+    "price": 290,
+    "stock": 100,
+    "quantity":1,
+    "type":"kid"
+  },
+  {
+    "id": 19,
+    "image": "./img/kid2.webp",
+    "name": "Jordan",
+    "description": "Kid's Ace GG Supreme sneaker with bees",
+    "price": 190,
+    "stock": 100,
+    "quantity":1,
+    "type":"kid"
+  },
+  {
+    "id": 20,
+    "image": "./img/airmax4.webp",
+    "name": "Gucci",
+    "description": "Kid's Ace GG Supreme sneaker with bees",
+    "price": 720,
+    "stock": 100,
+    "quantity":1,
+    "type":"kid"
+  }
+]

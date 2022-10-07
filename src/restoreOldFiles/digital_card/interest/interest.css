@@ -1,0 +1,14 @@
+.interest{
+    margin:5px 30px;
+}
+
+.interest ul{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:0.5rem; 
+    list-style:none;
+}
+
+.interest > li{
+
+}

@@ -1,0 +1,9 @@
+.container {
+  position: relative;
+  width: 500px;
+  height: 60rem;
+  background: #1c1c1c;
+  color: white;
+  font-family: Inter;
+}
+

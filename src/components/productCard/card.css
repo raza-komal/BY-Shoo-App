@@ -1,0 +1,5 @@
+.cardContainer {
+  margin-top: 20px;
+  box-shadow: 0px 2px 4px rgba(212, 55, 55, 0.808);
+  gap: 1rem;
+}

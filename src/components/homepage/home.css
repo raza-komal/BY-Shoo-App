@@ -1,0 +1,27 @@
+.home {
+  margin-top: 30px;
+}
+
+.cards {
+  padding:0 10px;
+}
+
+/* 
+.cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}*/
+
+
+@media only screen and (max-width: 500px) {
+  .cards {
+    /* padding-right:90px; */
+   }
+}
+
+@media only screen and (max-width: 768px) {
+  .cards {
+    padding: 0 40px;
+   }
+} 
